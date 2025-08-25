@@ -32,4 +32,4 @@ An interactive Power BI dashboard provides insights into employee training progr
 * Reduced skill gaps by spotting employees with incomplete training.
   
 ## 8. Screenshot
-This is How Dashboard looks like: Financial Dashboard.png
+This is How Dashboard looks like: (https://github.com/debug-sejal/P-B-Training-Dashboard/blob/main/P%20%26%20B%20Training%20Dashboard.png)
