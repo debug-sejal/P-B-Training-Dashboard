@@ -32,4 +32,5 @@ An interactive Power BI dashboard provides insights into employee training progr
 * Reduced skill gaps by spotting employees with incomplete training.
   
 ## 8. Screenshot
-This is How Dashboard looks like: P & B Training Dashboard.png
+This is How Dashboard looks like: <img width="977" height="557" alt="P   B Training Dashboard" src="https://github.com/user-attachments/assets/b0f3d9f8-7107-4f8b-8945-92ea78e0a770" />
+
